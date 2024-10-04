@@ -77,3 +77,12 @@ body{
     color: var(--branco-principal);
     margin-bottom: 0.1em;
 }
+
+.secundario_botao{
+    display: inline-block;
+    margin: 1em;
+}
+
+.container_descricao{
+    padding: 2em;
+}
